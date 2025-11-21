@@ -1,0 +1,14 @@
+{
+  "name": "minecraft-ai-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.15.0",
+    "mineflayer-pathfinder": "^2.4.1",
+    "mineflayer-pvp": "^1.5.0",
+    "mineflayer-collectblock": "^1.5.0"
+  }
+}
